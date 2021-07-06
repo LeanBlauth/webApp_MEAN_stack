@@ -10,4 +10,4 @@ Full Stack project employing the popular MEAN web dev stack
 - NodeJS
 - EC6 standard
 - EJS template engine
-- RESTful API http response standard
+- Standard CRUD (create read update delete) http RESTful API
